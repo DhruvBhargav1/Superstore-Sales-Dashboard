@@ -31,6 +31,7 @@ This project showcases an interactive retail sales dashboard built using Microso
 1. Download the `.pbix` file from this repository.
 2. Open it in Power BI Desktop (free from Microsoft).
 3. Interact with the slicers and visuals to explore the data.
-![dashboard](https://github.com/user-attachments/assets/f24456cb-e165-4bd9-a921-443990424c91)
+![dashboard_view](https://github.com/user-attachments/assets/093d4c6d-9fc6-43bd-9213-475bd49ccbd1)
+
 
 
